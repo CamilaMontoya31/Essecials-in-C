@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+//Write your first program in the "C" language. Just print your name 3 times.
+
+int main (void){
+    for(int i = 0; i < 3; i++){
+    puts("Camila Montoya");
+   
+    }
+     return 3;
+}
+
